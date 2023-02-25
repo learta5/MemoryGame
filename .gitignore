@@ -1,5 +1,18 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+node_modules/
+node_modules
+.history/
+.history
+dist/
+dist
+vendor/
+vendor
+/.vscode
+.vscode
+.vscode/
+
+
 # dependencies
 /node_modules
 /.pnp
